@@ -1,0 +1,32 @@
+.primary-header {
+    color: #3c87b3 !important;
+    font-family: 'Merriweather', 'Times New Roman', Times, serif;
+}
+
+.secondary-header {
+    font-family: 'Merriweather', 'Times New Roman', Times, serif;
+}
+
+.header-underline {
+    border-width: 3px !important;
+}
+
+.image-fill {
+    width: 100%;
+}
+
+.background-stacked-icon {
+    color: rgb(211, 233, 253);
+}
+
+.foreground-stacked-icon {
+    color:  #0178ff;
+}
+
+.icon-stack {
+    font-size: 1.5em
+}
+
+.hero-btn {
+    box-shadow:0 4px 20px 0 rgba(0, 0, 0, 0.49);
+}
