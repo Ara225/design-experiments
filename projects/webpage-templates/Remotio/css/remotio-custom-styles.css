@@ -1,0 +1,28 @@
+.primary-header {
+    color: #22528a;
+    font-family: 'Bree Serif', serif;
+}
+
+.hero-btn {
+    box-shadow:0 4px 20px 0 rgba(0, 0, 0, 0.49);
+}
+
+.image-fill {
+    width: 100%;
+}
+
+.header-underline {
+    border-width: 3px !important;
+}
+
+.footer-header {
+    color: #93979b;
+}
+
+footer {
+    line-height: 2 !important;
+}
+
+.taller-line {
+    line-height: 2 !important;
+}
