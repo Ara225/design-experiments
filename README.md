@@ -19,21 +19,32 @@ This repo is a home for my experiments with design. I'm trying to get a better u
             Remotio
         </td>
         <td>
-            A simple, light front page with no animations
+            A simple, light front page design with pricing and product section Themed around remote work products.
         </td>
         <td>
             <a href="https://designs.aitchisonsoft.co.uk/Remotio">Preview</a>
         </td>
     </tr>
-        <tr>
+    <tr>
         <td>
             TimeSaver
         </td>
         <td>
-            A simple, light front page with no animations
+            A simple, light front page with no animations, themed around time saving.
         </td>
         <td>
             <a href="https://designs.aitchisonsoft.co.uk/TimeSaver">Preview</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            SimpleBlog
+        </td>
+        <td>
+            A minimalist blog front page design.
+        </td>
+        <td>
+            <a href="https://designs.aitchisonsoft.co.uk/SimpleBlog">Preview</a>
         </td>
     </tr>
 </table>
