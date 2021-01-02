@@ -1,5 +1,7 @@
 This repo is a home for my experiments with design. I'm trying to get a better understanding of how to make websites look good, so, I'm challenging myself to make at least one purely UI thing every week. 
 
+The code itself is licensed under the Unlicense but images and other assets may be under other licensees. Sources noted in footers.
+
 ## Webpage templates
 
 <table>
@@ -45,6 +47,17 @@ This repo is a home for my experiments with design. I'm trying to get a better u
         </td>
         <td>
             <a href="https://designs.aitchisonsoft.co.uk/SimpleBlog">Preview</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            SimplePersonalSite
+        </td>
+        <td>
+            A minimalist single page personal website
+        </td>
+        <td>
+            <a href="https://designs.aitchisonsoft.co.uk/SimplePersonalSite">Preview</a>
         </td>
     </tr>
 </table>

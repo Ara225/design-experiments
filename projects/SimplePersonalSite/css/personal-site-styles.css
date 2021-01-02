@@ -1,0 +1,19 @@
+.primary-header {
+    font-family: 'Bree Serif', serif;
+}
+
+.header-underline {
+    border-width: 3px !important;
+}
+
+footer {
+    line-height: 2 !important;
+}
+
+#section1 {
+    background-color: #e7e6e6;
+}
+
+.check-bullet {
+    color: #2ebf91;
+}
