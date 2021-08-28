@@ -1,4 +1,4 @@
-This repo is a home for my experiments with design. I'm trying to get a better understanding of how to make websites look good, so, I'm challenging myself to make at least one purely UI thing every week. 
+This repo is a home for my experiments with design. 
 
 The code itself is licensed under the Unlicense but images and other assets may be under other licensees. Sources noted in footers.
 
